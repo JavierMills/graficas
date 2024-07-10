@@ -1,0 +1,10 @@
+.active {
+    background-image: linear-gradient(to right, blue, yellow, red); 
+    border: none;
+  }
+  
+  li {
+    cursor: pointer;
+  
+  }
+  
